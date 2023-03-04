@@ -1,5 +1,5 @@
 <script lang="ts">
-  import { type Project } from "../content/projects";
+  import type { Project } from "../content/projects";
   import AvatarInitials from "./AvatarInitials.svelte";
   import Tags from "./Tags.svelte";
 
@@ -15,7 +15,7 @@
       {#if imageUrl}
         <img
           src={imageUrl}
-          class="h-14 w-14 rounded-xl border-2 border-white bg-slate-50 md:h-20 md:w-20 md:border-4"
+          class="h-14 w-14 rounded-xl border-2 border-white bg-slate-50 md:h-20 md:w-20"
           alt={`${title} logo`}
         />
       {:else}

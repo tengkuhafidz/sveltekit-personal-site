@@ -16,7 +16,7 @@
 </script>
 
 <div
-  class="inline-flex items-center justify-center w-14 h-14 text-xl text-white bg-slate-700 border-2 border-white rounded-xl font-bold md:w-20 md:h-20 md:text-2xl md:border-4"
+  class="inline-flex items-center justify-center w-14 h-14 text-xl text-white bg-slate-700 border-2 border-white rounded-xl font-bold md:w-20 md:h-20 md:text-2xl"
 >
   {initials}
 </div>

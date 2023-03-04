@@ -38,6 +38,14 @@ export const projects: Project[] = [
         tags: ["Islamic", "Donation"]
     },
     {
+        title: "Websheets",
+        description: "Build websites with just Google Sheets",
+        url: "https://websheets.co",
+        imageUrl: "https://media.publit.io/file/websheets/app-icon.png",
+        platform: ProjectPlatforms.WebApp,
+        tags: ["Web Builder"]
+    },
+    {
         title: "Additive Halal Checker",
         description: "Check if an e-code additive is halal",
         url: "https://ecodehalalcheck.com/",
@@ -51,14 +59,6 @@ export const projects: Project[] = [
         url: "https:///mahramcheck.com",
         platform: ProjectPlatforms.WebApp,
         tags: ["Islamic"]
-    },
-    {
-        title: "Websheets",
-        description: "Build websites with just Google Sheets",
-        url: "https://websheets.co",
-        imageUrl: "https://media.publit.io/file/websheets/app-icon.png",
-        platform: ProjectPlatforms.WebApp,
-        tags: ["Web Builder"]
     }
 ]
 

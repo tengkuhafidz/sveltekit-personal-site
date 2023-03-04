@@ -4,7 +4,7 @@
 </script>
 
 <div
-  class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-y-4 md:gap-x-8 lg:gap-x-16 py-4"
+  class="grid grid-cols-1 lg:grid-cols-2 gap-y-4 lg:gap-6 py-4 max-w-2xl lg:max-w-5xl mx-auto"
 >
   {#each projects as project}
     <ListItem {project} />

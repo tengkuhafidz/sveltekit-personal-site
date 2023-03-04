@@ -15,16 +15,16 @@
       {#if imageUrl}
         <img
           src={imageUrl}
-          class="h-14 w-14 rounded-xl border-2 border-white bg-slate-50"
+          class="h-14 w-14 rounded-xl border-2 border-white bg-slate-50 md:h-20 md:w-20 md:border-4"
           alt={`${title} logo`}
         />
       {:else}
         <AvatarInitials {title} />
       {/if}
     </div>
-    <div class="px-2 grow">
-      <h1 class="text-md font-bold">{title}</h1>
-      <p class="text-xs">{description}</p>
+    <div class="px-2 grow md:px-4">
+      <h1 class="text-md font-bold md:text-xl">{title}</h1>
+      <p class="text-xs md:text-lg">{description}</p>
       <Tags tags={[platform, ...tags]} />
     </div>
   </div>

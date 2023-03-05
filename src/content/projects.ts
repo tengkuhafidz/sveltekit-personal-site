@@ -17,7 +17,7 @@ export const projects: Project[] = [
         title: "Khatam Challenge Bot",
         description: "Khatam with your loved ones on Telegram",
         url: "https://t.me/khatam_challenge_bot",
-        imageUrl: "https://media.publit.io/file/h_100,w_100/projectassets/kcb-logo.webp",
+        imageUrl: "https://media.publit.io/file//projectassets/kcb-logo.webp",
         platform: ProjectPlatforms.TelegramBot,
         tags: ["Islamic"]
     },
@@ -25,7 +25,7 @@ export const projects: Project[] = [
         title: "Basic Budget Bot",
         description: "Track your family budget on Telegram",
         url: "https://t.me/basic_budget_bot",
-        imageUrl: "https://media.publit.io/file/h_100,w_100/projectassets/bbb-logo.webp",
+        imageUrl: "https://media.publit.io/file//projectassets/bbb-logo.webp",
         platform: ProjectPlatforms.TelegramBot,
         tags: ["Finance"]
     },
@@ -33,7 +33,7 @@ export const projects: Project[] = [
         title: "Impactbit",
         description: "Grow your impact by contributing monthly",
         url: "https://impactbit.waktanjong.org/?ref=2802210542canva",
-        imageUrl: "https://media.publit.io/file/h_100,w_100/projectassets/impactbit-logo.webp",
+        imageUrl: "https://media.publit.io/file//projectassets/impactbit-logo.webp",
         platform: ProjectPlatforms.WebApp,
         tags: ["Islamic", "Donation"]
     },
@@ -41,7 +41,7 @@ export const projects: Project[] = [
         title: "Websheets",
         description: "Build websites with just Google Sheets",
         url: "https://websheets.co",
-        imageUrl: "https://media.publit.io/file/h_100,w_100/projectassets/websheets-logo.webp",
+        imageUrl: "https://media.publit.io/file//projectassets/websheets-logo.webp",
         platform: ProjectPlatforms.WebApp,
         tags: ["Web Builder"]
     },
@@ -49,7 +49,7 @@ export const projects: Project[] = [
         title: "Additive Halal Checker",
         description: "Check if an e-code additive is halal",
         url: "https://ecodehalalcheck.com/",
-        imageUrl: "https://media.publit.io/file/h_100,w_100/projectassets/ehc-logo.webp",
+        imageUrl: "https://media.publit.io/file//projectassets/ehc-logo.webp",
         platform: ProjectPlatforms.WebApp,
         tags: ["Islamic"]
     },

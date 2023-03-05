@@ -32,7 +32,7 @@ export const projects: Project[] = [
     {
         title: "Impactbit",
         description: "Grow your impact by contributing monthly",
-        url: "https://websheets.co",
+        url: "https://impactbit.waktanjong.org/?ref=2802210542",
         imageUrl: "https://media.publit.io/file/projectassets/impactbit-logo.webp",
         platform: ProjectPlatforms.WebApp,
         tags: ["Islamic", "Donation"]

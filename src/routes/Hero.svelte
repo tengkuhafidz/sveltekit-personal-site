@@ -2,7 +2,7 @@
   class="p-8 text-center text-white bg-gradient-to-r from-slate-800 to-slate-900"
 >
   <img
-    src="https://media.publit.io/file/hafidz/profile-1.png"
+    src="https://media.publit.io/file/h_100,w_100/hafidz/profile-1.png"
     class="rounded-xl h-20 border-2 mx-auto md:h-24"
     alt="profile pic"
   />

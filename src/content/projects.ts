@@ -11,8 +11,15 @@ enum ProjectPlatforms {
     TelegramBot = "Telegram Bot",
     WebApp = "Web App",
 }
-
 export const projects: Project[] = [
+    {
+        title: "Khatam Planner",
+        description: "Generate a khatam plan around prayer timings.",
+        url: "https://khatam-planner.jariyah.app",
+        imageUrl: "https://media.publit.io/file/projectassets/khatam-planner.jpg",
+        platform: ProjectPlatforms.WebApp,
+        tags: ["Islamic"]
+    },
     {
         title: "Khatam Challenge Bot",
         description: "Khatam with your loved ones on Telegram",

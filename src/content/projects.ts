@@ -14,7 +14,7 @@ enum ProjectPlatforms {
 export const projects: Project[] = [
     {
         title: "Khatam Planner",
-        description: "Generate a khatam plan around prayer timings.",
+        description: "Generate khatam plan around prayer times",
         url: "https://khatam-planner.jariyah.app",
         imageUrl: "https://media.publit.io/file/projectassets/khatam-planner.jpg",
         platform: ProjectPlatforms.WebApp,

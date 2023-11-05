@@ -15,7 +15,7 @@ export const projects: Project[] = [
     {
         title: "Palestine Profile Pic Maker",
         description: "Spread awareness through your profile pic",
-        url: "https://khatam-planner.jariyah.app",
+        url: "https://palestineprofile.jariyah.app",
         imageUrl: "/palestine-profile-logo.jpg",
         platform: ProjectPlatforms.WebApp,
         tags: ["Islamic"]

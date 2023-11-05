@@ -13,6 +13,22 @@ enum ProjectPlatforms {
 }
 export const projects: Project[] = [
     {
+        title: "Palestine Profile Pic Maker",
+        description: "Spread awareness through your profile pic",
+        url: "https://khatam-planner.jariyah.app",
+        imageUrl: "/palestine-profile-logo.jpg",
+        platform: ProjectPlatforms.WebApp,
+        tags: ["Islamic"]
+    },
+    {
+        title: "SOS Palestine",
+        description: "Initiatives to help the people in Gaza",
+        url: "https://sospalestine.tngk.link/",
+        imageUrl: "https://i.imgur.com/y7COSpZ.jpg",
+        platform: ProjectPlatforms.WebApp,
+        tags: ["Islamic"]
+    },
+    {
         title: "Khatam Planner",
         description: "Generate khatam plan around prayer times",
         url: "https://khatam-planner.jariyah.app",

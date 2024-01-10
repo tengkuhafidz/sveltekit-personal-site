@@ -13,8 +13,16 @@ enum ProjectPlatforms {
 }
 export const projects: Project[] = [
     {
+        title: "#CeasefireNow Filters",
+        description: "Demand ceasefire while sharing your stories",
+        url: "https://www.instagram.com/ar/1755008248353431",
+        imageUrl: "/ceasefire-frames-logo.png",
+        platform: ProjectPlatforms.WebApp,
+        tags: ["Islamic"]
+    },
+    {
         title: "Palestine Profile Pic Maker",
-        description: "Spread awareness through your profile pic",
+        description: "Demand ceasefire awareness through your profile pic",
         url: "https://palestineprofile.jariyah.app",
         imageUrl: "/palestine-profile-logo.jpg",
         platform: ProjectPlatforms.WebApp,

@@ -12,7 +12,15 @@ enum ProjectPlatforms {
     WebApp = "Web App",
 }
 export const projects: Project[] = [
-    {
+
+   {
+        title: "Gaza in Numbers",
+        description: "stay updated on latest Gaza-Nakba figures",
+        url: "https://gazanumbers.jariyah.app",
+        imageUrl: "/palestine-profile-logo.jpg",
+        platform: ProjectPlatforms.WebApp,
+        tags: ["Islamic"]
+    },  {
         title: "#CeasefireNow Filters",
         description: "Demand ceasefire while sharing your stories",
         url: "https://www.instagram.com/ar/1755008248353431",

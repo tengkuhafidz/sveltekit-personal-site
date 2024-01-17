@@ -17,7 +17,7 @@ export const projects: Project[] = [
         title: "Gaza in Numbers",
         description: "stay updated on latest Gaza-Nakba figures",
         url: "https://gazanumbers.jariyah.app",
-        imageUrl: "/palestine-profile-logo.jpg",
+        imageUrl: "https://i.imgur.com/y7COSpZ.jpg",
         platform: ProjectPlatforms.WebApp,
         tags: ["Islamic"]
     },  {

@@ -30,7 +30,7 @@ export const projects: Project[] = [
     },
     {
         title: "Palestine Profile Pic Maker",
-        description: "Demand ceasefire awareness through your profile pic",
+        description: "Demand ceasefire through your profile pic",
         url: "https://ppm.techforpalestine.org",
         imageUrl: "/palestine-profile-logo.jpg",
         platform: ProjectPlatforms.WebApp,

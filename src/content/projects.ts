@@ -12,20 +12,19 @@ enum ProjectPlatforms {
     WebApp = "Web App",
 }
 export const projects: Project[] = [
-
-    {
-        title: "Gaza Genocide Numbers",
-        description: "Stay updated on the latest figures",
-        url: "https://gazanumbers.jariyah.app",
-        imageUrl: "/gaza.webp",
-        platform: ProjectPlatforms.WebApp,
-        tags: ["Islamic"]
-    },
     {
         title: "Palestine Profile Pic Maker",
         description: "Spotlight support through your profile pic",
         url: "https://ppm.techforpalestine.org",
         imageUrl: "/palestine-profile-logo.jpg",
+        platform: ProjectPlatforms.WebApp,
+        tags: ["Islamic"]
+    },
+    {
+        title: "Gaza Genocide Numbers",
+        description: "Stay updated on the latest figures",
+        url: "https://gazanumbers.jariyah.app",
+        imageUrl: "/gaza.webp",
         platform: ProjectPlatforms.WebApp,
         tags: ["Islamic"]
     },
